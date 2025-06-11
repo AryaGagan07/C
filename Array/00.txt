@@ -1,0 +1,24 @@
+Find the sum of all elements in the array
+Find the maximum and minimum element
+Reverse an array
+Insert an element at a given position
+Delete an element at a given position
+Remove duplicates from an array
+Sort the array Bubble Sort
+Insetion Sort
+Merge two arrays into a third array
+Left rotate the array by one
+Right rotate the array by one
+Find the second largest element
+Count frequency of each element
+Check if array is palindrome
+Find missing number from 1 to n
+Count pairs with given sum
+Find duplicates in array
+Move all zeros to the end of the array
+Segregate even and odd numbers in the array
+Find maximum product of two integers in the array
+Check if two arrays are equal (same elements, same frequency)
+Kadane’s Algorithm: Maximum Subarray Sum
+Rotate array by k positions (left)
+Find all leaders in an array
