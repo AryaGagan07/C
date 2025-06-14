@@ -8,7 +8,7 @@ Sort the array Bubble Sort
 Insetion Sort
 Merge two arrays into a third array
 Left rotate the array by one
-Right rotate the array by one
+Rotate array by k positions (left)
 Find the second largest element
 Count frequency of each element
 Check if array is palindrome
@@ -20,5 +20,4 @@ Segregate even and odd numbers in the array
 Find maximum product of two integers in the array
 Check if two arrays are equal (same elements, same frequency)
 Kadane’s Algorithm: Maximum Subarray Sum
-Rotate array by k positions (left)
 Find all leaders in an array
