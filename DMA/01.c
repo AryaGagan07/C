@@ -1,3 +1,4 @@
+// Write a C program to allocate memory for an integer using malloc and assign a value to it. Print the value and free the memory.
 #include <stdio.h>
 #include <stdlib.h>
 int main(){
